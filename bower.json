@@ -1,0 +1,26 @@
+{
+  "name": "random_dialog",
+  "description": "show random dialog box",
+  "main": "main.js",
+  "authors": [
+    "gauravsoni119 <gauravheart.soni@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "dialog",
+    "random"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-material": "^1.0.9"
+  }
+}
